@@ -1,0 +1,7 @@
+température et umiditer : 
+https://learn.adafruit.com/adafruit-hts221-temperature-humidity-sensor/python-circuitpython
+datachite : https://docs.rs-online.com/53a6/0900766b814d7c46.pdf
+
+capteur C02 : 
+https://wiki.dfrobot.com/SKU_SEN0514_Gravity_ENS160_Air_Quality_Sensor
+https://learn.adafruit.com/adafruit-ens160-mox-gas-sensor/circuitpython-python
